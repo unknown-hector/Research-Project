@@ -1,12 +1,4 @@
    Research Problem:
 
-The research problem addressed in this project revolves around understanding the impact of
-packet size variations on the performance of the Dynamic Source Routing (DSR) protocol
-within simulated Wireless Sensor Networks (WSNs). Specifically, the project seeks to
-investigate how changes in packet sizes influence the efficiency, latency, and energy
-consumption of the DSR protocol when applied to WSNs.
-This research problem is essential because the performance of routing protocols is critical in
-WSNs, where sensor nodes are resource-constrained and energy efficiency is paramount. By
-analysing the behaviour of the DSR protocol with respect to packet sizes, we aim to uncover
-insights that can guide the optimization of routing strategies in WSNs, ultimately improving
-their reliability and effectiveness for various applications.
+The research problem addressed in this project revolves around understanding the impact of packet size variations on the performance of the Dynamic Source Routing (DSR) protocol within simulated Wireless Sensor Networks (WSNs). Specifically, the project seeks to investigate how changes in packet sizes influence the efficiency, latency, and energy consumption of the DSR protocol when applied to WSNs.
+This research problem is essential because the performance of routing protocols is critical in WSNs, where sensor nodes are resource-constrained and energy efficiency is paramount. By analysing the behaviour of the DSR protocol with respect to packet sizes, we aim to uncover insights that can guide the optimization of routing strategies in WSNs, ultimately improving their reliability and effectiveness for various applications.
